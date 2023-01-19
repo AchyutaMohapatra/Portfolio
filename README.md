@@ -8,5 +8,4 @@
 - And yes, It's not very pleasing to eyes, I know.
 - Take a look: 
 
-### Contact me:
-[website]: https://achyuta.vercel.app/
+# Contact me: https://achyuta.vercel.app/
